@@ -36,7 +36,7 @@ S||Canceled/invalid control number|0|0|z||X|||||||||0||0|0|||
 S||Source|0|0|2||X|||||||||0||0|0|||
 T|17|Copyr. or dep. number|0|1|12abdiz2|||||||||||1|http://www.loc.gov/marc/bibliographic/bd017.html|0|0|||
 S||Indicator 1|0|0|1||X||1|P|Ind-b.tab|||||0||0|0|||
-S||Indiactor 2 (Display constant controller)|0|0|2||X||1|P|017-ind2.tab|||||0||0|0|||
+S||Indicator 2 (Display constant controller)|0|0|2||X||1|P|017-ind2.tab|||||0||0|0|||
 S||Cop. or dep. number|0|1|a||X|||||||||0||0|0|||
 S||Agency|0|0|b||X|||||||||0||0|0|||
 S||Date|0|0|d||X|||||||||0||0|0|||
@@ -203,7 +203,7 @@ S||Indicator 2 (Source of code)|0|0|2||X||1|P|041-ind2.tab|||||0||0|0|||
 S||Language code of text|0|0|a||X|||||||||0||0|0|||
 S||Language code of summary|0|0|b||X|||||||||0||0|0|||
 S||Language code of sung of spoken text|0|0|d||X|||||||||0||0|0|||
-S||Languae code of librettos|0|0|e||X|||||||||0||0|0|||
+S||Language code of librettos|0|0|e||X|||||||||0||0|0|||
 S||Language code of table of contents|0|0|f||X|||||||||0||0|0|||
 S||Language code of accompanying material|0|0|g||X|||||||||0||0|0|||
 S||Language code of original and/or intermediate translations of text|0|0|h||X|||||||||0||0|0|||
@@ -1160,7 +1160,7 @@ S||Indicator 1|0|0|1||X||1|P|Ind-b.tab|||||0||0|0|||
 S||Indicator 2|0|0|2||X||1|P|Ind-b.tab|||||0||0|0|||
 S||Type of reproduction|0|0|a||X|||||||||0||0|0|||
 S||Place of reproduction|0|1|b||X|||||||||0||0|0|||
-S||Agency responcsible for reproduction|0|1|c||X|||||||||0||0|0|||
+S||Agency responsible for reproduction|0|1|c||X|||||||||0||0|0|||
 S||Date of reproduction|0|0|d||X|||||||||0||0|0|||
 S||Physical description of reproduction|0|0|e||X|||||||||0||0|0|||
 S||Series statement of reproduction|0|1|f||X|||||||||0||0|0|||
@@ -1210,7 +1210,7 @@ S||Work unit number|0|0|h||X|||||||||0||0|0|||
 T|538|System details note|0|1|12aiu35|||||||||||1|http://www.loc.gov/marc/bibliographic/bd538.html|0|0|||
 S||Indicator 1|0|0|1||X||1|P|Ind-b.tab|||||0||0|0|||
 S||Indicator 2|0|0|2||X||1|P|Ind-b.tab|||||0||0|0|||
-S||Sytem details note|0|0|a||X|||||||||0||0|0|||
+S||System details note|0|0|a||X|||||||||0||0|0|||
 S||Display text|0|0|i||X|||||||||0||0|0|||
 S||Uniform resource identifier|0|1|u||X|||||||||0||0|0|||
 S||Materials specified|0|0|3||X|||||||||0||0|0|||
@@ -1534,7 +1534,7 @@ S||Authority record control number or standard number|0|0|0||X|||||||||0||0|0|||
 S||Source of heading or term|0|0|2||X|||||||||0||0|0|||
 S||Materials specified|0|0|3||X|||||||||0||0|0|||
 S||Relator code|0|0|4||X|||||||||0||0|0|||
-T|647|Subject Added Enrtry Named Event|0|1|12acdgvxyz023|||||||||||1|https://www.loc.gov/marc/bibliographic/bd647.html|0|0|||
+T|647|Named Event|0|1|12acdgvxyz023|||||||||||1|https://www.loc.gov/marc/bibliographic/bd647.html|0|0|||
 S||Indicator 1|0|0|1||X||1|P|Ind-b.tab|||||0||0|0|||
 S||Indicator 2|0|0|2||X||2|P|600-ind2.tab|||||0||0|0|||
 S||Named event|0|0|a||X|||||||||0||0|0|||
@@ -1548,7 +1548,7 @@ S||Geographical subdivision|0|0|z||X|||||||||0||0|0|||
 S||Authority record control number or standard number|0|0|0||X|||||||||0||0|0|||
 S||Source of heading or term|0|0|2||X|||||||||0||0|0|||
 S||Materials specified|0|0|3||X|||||||||0||0|0|||
-T|648|Subject Added Entry-Chronological Term|0|1|12avxyz023|||||||||||1|http://www.loc.gov/marc/bibliographic/bd648.html|0|0|||
+T|648|Chronological Term|0|1|12avxyz023|||||||||||1|http://www.loc.gov/marc/bibliographic/bd648.html|0|0|||
 S||Indicator 1|0|0|1||X||1|P|Ind-b.tab|||||0||0|0|||
 S||Indicator 2 (Thesaurus)|0|0|2||X||1|P|600-ind2.tab|||||0||0|0|||
 S||Chronological term|0|0|a||X|||||||||0||0|0|||
@@ -1594,7 +1594,7 @@ T|653|Index term uncontrolled|0|1|12a|||||||||||1|http://www.loc.gov/marc/biblio
 S||Indicator 1 (Level of index term)|0|0|1||X||1|P|650-ind1.tab|||||0||0|0|||
 S||Indicator 2 (Type of term or name)|0|0|2||X||1|P|653-ind2.tab|||||0||0|0|||
 S||Genre/form data or focus term|0|0|a||X|||||||||0||0|0|||
-T|654|Subject Added Entry-Faceted Topical Terms|0|1|12abcevyz0234|||||||||||1|http://www.loc.gov/marc/bibliographic/bd654.html|0|0|||
+T|654|Faceted Topical Terms|0|1|12abcevyz0234|||||||||||1|http://www.loc.gov/marc/bibliographic/bd654.html|0|0|||
 S||Indicator 1 (Level of subject)|0|0|1||X||1|P|650-ind1.tab|||||0||0|0|||
 S||Indicator 2|0|0|2||X||1|P|Ind-b.tab|||||0||0|0|||
 S||Focus term|0|0|a||X|||||||||0||0|0|||
@@ -1653,7 +1653,7 @@ S||Subordinate curriculum objective|0|0|b||X|||||||||0||0|0|||
 S||Curriculum code|0|0|c||X|||||||||0||0|0|||
 S||Correlation factor|0|0|d||X|||||||||0||0|0|||
 S||Source of term or code|0|0|2||X|||||||||0||0|0|||
-T|662|Subject Added Entry-Hierarchical Place Name|0|1|12abcdefgh024|||||||||||1|http://www.loc.gov/marc/bibliographic/bd662.html|0|0|||
+T|662|Hierarchical Place Name|0|1|12abcdefgh024|||||||||||1|http://www.loc.gov/marc/bibliographic/bd662.html|0|0|||
 S||Indicator 1|0|0|1||X||1|P|Ind-b.tab|||||0||0|0|||
 S||Indicator 2|0|0|2||X||1|P|Ind-b.tab|||||0||0|0|||
 S||Country or larger entity|0|0|a||X|||||||||0||0|0|||
@@ -1776,7 +1776,7 @@ S||Title of a work|0|0|t||X|||||||||0||0|0|||
 S||International Standard Serial Number|0|0|x||X|||||||||0||0|0|||
 S||Authority record control number or standard number|0|0|0||X|||||||||0||0|0|||
 S||Materials specified|0|0|3||X|||||||||0||0|0|||
-S||ISSN|0|0|5||X|||||||||0||0|0|||
+S||Institution to which field applies|0|0|5||X|||||||||0||0|0|||
 T|740|Analytical title|0|1|12ahnp5|||||||||||1|http://www.loc.gov/marc/bibliographic/bd740.html|0|0|||
 S||Indicator 1 (Nonfiling characters)|0|0|1||X||1|P|740-ind1.tab|||||0||0|0|||
 S||Indicator 2 (Type of added entry)|0|0|2||X||1|P|700-ind2.tab|||||0||0|0|||
@@ -1844,7 +1844,7 @@ S||Record control number|0|0|w||X|||||||||0||0|0|||
 S||ISSN|0|0|x||X|||||||||0||0|0|||
 S||CODEN designation|0|0|y||X|||||||||0||0|0|||
 S||Relationship code|0|0|4||X|||||||||0||0|0|||
-T|762|Subsies entry|0|1|1234abcdghimnostwx|||1||||||||1|http://www.loc.gov/marc/bibliographic/bd762.html|0|0|||
+T|762|Subserie entry|0|1|1234abcdghimnostwx|||1||||||||1|http://www.loc.gov/marc/bibliographic/bd762.html|0|0|||
 S||Indicator 1 (Note controller)|0|0|1||X||1|P|247-ind2.tab|||||0||0|0|||
 S||Indicator 2 (Display constant controller)|0|0|2||X||1|P|762-ind2.tab|||||0||0|0|||
 S||Main entry heading|0|0|a||X|||||||||0||0|0|||
@@ -1916,7 +1916,7 @@ S||Main entry heading|0|0|a||X|||||||||0||0|0|||
 S||Edition|0|0|b||X|||||||||0||0|0|||
 S||Qualifying information|0|1|c||X|||||||||0||0|0|||
 S||Place, publisher, date of publication|0|0|d||X|||||||||0||0|0|||
-S||Relationship information|0|0|g||X|||||||||0||0|0|||
+S||Related part|0|0|g||X|||||||||0||0|0|||
 S||Physical description|0|0|h||X|||||||||0||0|0|||
 S||Relationship information|0|0|i||X|||||||||0||0|0|||
 S||Series data for related item|0|0|k||X|||||||||0||0|0|||
@@ -1997,7 +1997,7 @@ S||Other item identifier|0|0|o||X|||||||||0||0|0|||
 S||Report number|0|0|r||X|||||||||0||0|0|||
 S||Uniform title|0|0|s||X|||||||||0||0|0|||
 S||Title|0|0|t||X|||||||||0||0|0|||
-S||Sta,dard Technical Report Number|0|0|u||X|||||||||0||0|0|||
+S||Standard Technical Report Number|0|0|u||X|||||||||0||0|0|||
 S||Record control number|0|1|w||X|||||||||0||0|0|||
 S||ISSN|0|0|x||X|||||||||0||0|0|||
 S||CODEN designation|0|0|y||X|||||||||0||0|0|||
@@ -2045,7 +2045,7 @@ S||Other item identifier|0|0|o||X|||||||||0||0|0|||
 S||Report number|0|0|r||X|||||||||0||0|0|||
 S||Uniform title|0|0|s||X|||||||||0||0|0|||
 S||Title|0|0|t||X|||||||||0||0|0|||
-S||Standard TEchnical Report Number|0|0|u||X|||||||||0||0|0|||
+S||Standard Technical Report Number|0|0|u||X|||||||||0||0|0|||
 S||Record control number|0|1|w||X|||||||||0||0|0|||
 S||ISSN|0|0|x||X|||||||||0||0|0|||
 S||CODEN designation|0|0|y||X|||||||||0||0|0|||
@@ -2143,13 +2143,13 @@ S||International Standard Serial Number|0|0|x||X|||||||||0||0|0|||
 S||CODEN designation|0|0|y||X|||||||||0||0|0|||
 S||International Standard Book Number|0|0|z||X|||||||||0||0|0|||
 S||Relationship code|0|0|4||X|||||||||0||0|0|||
-T|787|Nonspecific realtionship entry|0|1|12abcdghikmnorstuwxyz4|||||||||||1|http://www.loc.gov/marc/bibliographic/litespa/elbdnota.htm#mrcb787|0|0|||
+T|787|Nonspecific relationship entry|0|1|12abcdghikmnorstuwxyz4|||||||||||1|http://www.loc.gov/marc/bibliographic/litespa/elbdnota.htm#mrcb787|0|0|||
 S||Indicator 1 (Note controller)|0|0|1||X||1|P|247-ind2.tab|||||0||0|0|||
 S||Indicator 2 (Display constant controller)|0|0|2||X||1|P|787-ind2.tab|||||0||0|0|||
 S||Main entry heading|0|0|a||X|||||||||0||0|0|||
 S||Edition|0|0|b||X|||||||||0||0|0|||
 S||Qualifying information|0|1|c||X|||||||||0||0|0|||
-S||Place, pubisher, date of publication|0|0|d||X|||||||||0||0|0|||
+S||Place, publisher, date of publication|0|0|d||X|||||||||0||0|0|||
 S||Realtionship information|0|1|g||X|||||||||0||0|0|||
 S||Physical description|0|1|h||X|||||||||0||0|0|||
 S||Relationship information|0|0|i||X|||||||||0||0|0|||
